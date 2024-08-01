@@ -3,7 +3,7 @@
 
 Java Backend Developer based in Tashkent, Uzbekistan.
 
-- 🔭 I’m currently working on [V.R. Showroom Development](https://www.livein.uz/)
+- 🔭 I’m currently contributing to [V.R. Showroom Development](https://www.livein.uz/)
 - 📫 How to reach me farangizhon2004@icloud.com
 
 ## Connect with me:
